@@ -1,0 +1,9 @@
+Z:\Visual Studio 2017\Projects\VFS2_TOOL\VFS2_TOOL\bin\Debug\VFS2_TOOL.exe.config
+Z:\Visual Studio 2017\Projects\VFS2_TOOL\VFS2_TOOL\bin\Debug\VFS2_TOOL.exe
+Z:\Visual Studio 2017\Projects\VFS2_TOOL\VFS2_TOOL\bin\Debug\VFS2_TOOL.pdb
+Z:\Visual Studio 2017\Projects\VFS2_TOOL\VFS2_TOOL\obj\Debug\VFS2_TOOL.csprojAssemblyReference.cache
+Z:\Visual Studio 2017\Projects\VFS2_TOOL\VFS2_TOOL\obj\Debug\VFS2_TOOL.csproj.CoreCompileInputs.cache
+Z:\Visual Studio 2017\Projects\VFS2_TOOL\VFS2_TOOL\obj\Debug\VFS2_TOOL.exe
+Z:\Visual Studio 2017\Projects\VFS2_TOOL\VFS2_TOOL\obj\Debug\VFS2_TOOL.pdb
+Z:\Visual Studio 2017\Projects\VFS2_TOOL\VFS2_TOOL\bin\Debug\zlibnet.dll
+Z:\Visual Studio 2017\Projects\VFS2_TOOL\VFS2_TOOL\obj\Debug\VFS2_TOOL.csproj.CopyComplete
